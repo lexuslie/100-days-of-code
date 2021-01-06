@@ -25,6 +25,8 @@
 
 **Thoughts** I've recently started coding, and it's a great feeling when something finally clicks. I was going to start tomorrow, but there was nothing stopping me from doing an hour today. 
 
+**REMINDER** I am learning. It is important to give myself grace and work through things that I do not know. 
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->

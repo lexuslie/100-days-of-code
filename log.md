@@ -30,3 +30,12 @@
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+### Day 2: January 7, 2021 Thursday
+
+**Today's Progress**: I've gone through a couple of exercises on FreeCodeCamp.
+
+**Thoughts** Sad that I already missed a day, but America turnt tf up yesterday. I did what I always do in times of crisis, turned to Twitter. 
+I did not put forth my best effort today, but I will try my best to do better tomorrow. 
+
+**REMINDER** Things won't always come easy. Pause, take a breath, and figure it out. 

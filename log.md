@@ -39,3 +39,12 @@
 I did not put forth my best effort today, but I will try my best to do better tomorrow. 
 
 **REMINDER** Things won't always come easy. Pause, take a breath, and figure it out. 
+
+
+### Day 3: January 9, 2021 Saturday
+
+**Today's Progress**: I've gone through a couple of exercises on FreeCodeCamp.
+
+**Thoughts** I coded 3 times this week. Building a habit is hard, but it is becoming easier to code for daily.  
+
+**REMINDER** Ain't no laws with White Claw. 

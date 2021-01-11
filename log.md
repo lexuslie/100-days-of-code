@@ -48,3 +48,12 @@ I did not put forth my best effort today, but I will try my best to do better to
 **Thoughts** I coded 3 times this week. Building a habit is hard, but it is becoming easier to code for daily.  
 
 **REMINDER** Ain't no laws with White Claw. 
+
+
+### Day 4: January 10, 2021 Sunday
+
+**Today's Progress**: I've gone through a couple of exercises on FreeCodeCamp.
+
+**Thoughts** First back to back of the 100-day SZN. Felt good. I did not get a chance to code as long as I wanted to, but I made sure I did something.   
+
+**REMINDER** Sunday Scaries r v real. 

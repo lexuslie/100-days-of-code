@@ -66,3 +66,11 @@ I did not put forth my best effort today, but I will try my best to do better to
 **Thoughts** 3 day streak. Feels good. I would like to add in some readings in addition to coding. 
 
 **REMINDER** Roll Tide. 
+
+### Day 6: January 13, 2021 Wednesday
+
+**Today's Progress**: I've gone through a couple of exercises on FreeCodeCamp.
+
+**Thoughts** Broke my streak for Taco Tuesday, but those $2 margs were worth it. I learned more about colors and I liked it alot. It is absoluely amazing how much thought and time goes into a simple website.  
+
+**REMINDER** It's hump dayyyyyyy. 

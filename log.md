@@ -74,3 +74,11 @@ I did not put forth my best effort today, but I will try my best to do better to
 **Thoughts** Broke my streak for Taco Tuesday, but those $2 margs were worth it. I learned more about colors and I liked it alot. It is absoluely amazing how much thought and time goes into a simple website.  
 
 **REMINDER** It's hump dayyyyyyy. 
+
+### Day 7: January 14, 2021 Thursday
+
+**Today's Progress**: I've gone through a couple of exercises on FreeCodeCamp and started Googles Python class.
+
+**Thoughts** I almost didn't code today because I didn't feel like it. Then I learned about the passing of a friend of my friends and that shook me up. So I got up and kept pushing through.    
+
+**REMINDER** Life is fleeting. Enjoy each and every second of it. Be kind to people. 

@@ -90,3 +90,11 @@ I did not put forth my best effort today, but I will try my best to do better to
 **Thoughts** I almost didn't code today because it's Friday and I had a long week. I quickly got over that and did my exercises. I have been using a 20 minutes on and 10 minutes off method to study. So far I like it. It allows me to focus in small increments which is perfect for my attention span.     
 
 **REMINDER** It's friday, friday, gotta get down on friday. 
+
+### Day 9(?): July 1, 2021 Thursday
+
+**Today's Progress**: I've been gone for 6 months. Should I start over at this point?
+
+**Thoughts** I picked up a few books and I am starting over again. This time focused on cybersecurity. Wish me luck.     
+
+**REMINDER** It's a marathon not a sprint
